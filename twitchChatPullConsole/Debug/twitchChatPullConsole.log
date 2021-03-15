@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Antny\source\repos\twitchChatPullConsole\twitchChatPullConsole\Source.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Antny\source\repos\twitchChatPullConsole\twitchChatPullConsole\Source.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+  twitchChatPullConsole.vcxproj -> C:\Users\Antny\source\repos\twitchChatPullConsole\Debug\twitchChatPullConsole.exe

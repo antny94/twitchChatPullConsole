@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Antny\source\repos\twitchChatPullConsole\twitchChatPullConsole\Source.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Antny\source\repos\twitchChatPullConsole\twitchChatPullConsole\Source.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  12 of 167 functions ( 7.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  twitchChatPullConsole.vcxproj -> C:\Users\Antny\source\repos\twitchChatPullConsole\Release\twitchChatPullConsole.exe
